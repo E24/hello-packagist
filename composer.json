@@ -1,0 +1,14 @@
+{
+    "name": "e24/hello-packagist",
+    "description": "E24s first public composer package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fredrik Stave",
+            "email": "fredrik.stave@schibsted.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
